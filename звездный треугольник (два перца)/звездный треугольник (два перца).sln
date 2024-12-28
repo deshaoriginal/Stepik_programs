@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "звездный треугольник (два перца)", "звездный треугольник (два перца)\звездный треугольник (два перца).pyproj", "{23273939-0DC3-4985-BE75-B84E7822FA47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23273939-0DC3-4985-BE75-B84E7822FA47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23273939-0DC3-4985-BE75-B84E7822FA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E31DD23A-E7A7-48DC-999F-7E21B06B2474}
+	EndGlobalSection
+EndGlobal

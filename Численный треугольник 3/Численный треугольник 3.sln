@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Численный треугольник 3", "Численный треугольник 3\Численный треугольник 3.pyproj", "{A295FEE0-DFB9-495F-9AFE-315BF346D55A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A295FEE0-DFB9-495F-9AFE-315BF346D55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A295FEE0-DFB9-495F-9AFE-315BF346D55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3DEF0BC-D86F-406B-805A-7F97E6AB5D7F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Обратный порядок 2", "Обратный порядок 2\Обратный порядок 2.pyproj", "{557D2514-C80B-4AAF-8598-3706F1DB864E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{557D2514-C80B-4AAF-8598-3706F1DB864E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557D2514-C80B-4AAF-8598-3706F1DB864E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {746BDC09-5FCE-4B2C-BFE0-BFCC87EF9693}
+	EndGlobalSection
+EndGlobal

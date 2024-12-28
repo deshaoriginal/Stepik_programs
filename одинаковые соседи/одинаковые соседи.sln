@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "одинаковые соседи", "одинаковые соседи\одинаковые соседи.pyproj", "{EA6D2645-3669-43FE-BA71-5CF85E751131}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA6D2645-3669-43FE-BA71-5CF85E751131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6D2645-3669-43FE-BA71-5CF85E751131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FACC511-C3DD-481B-B5DA-C63A483A27EE}
+	EndGlobalSection
+EndGlobal

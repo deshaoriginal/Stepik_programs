@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "sWAP cASE", "sWAP cASE\sWAP cASE.pyproj", "{F3CE8BB8-C759-43E9-8B56-AFE303207D0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3CE8BB8-C759-43E9-8B56-AFE303207D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CE8BB8-C759-43E9-8B56-AFE303207D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D72005C-868E-4FB5-BB20-46F6B95E964E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "срезы", "срезы\срезы.pyproj", "{FA09E324-A746-4DBC-99EF-B8DB6C5B7CF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA09E324-A746-4DBC-99EF-B8DB6C5B7CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA09E324-A746-4DBC-99EF-B8DB6C5B7CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D592AF1-738C-4F54-B54D-50A3FB30C74B}
+	EndGlobalSection
+EndGlobal

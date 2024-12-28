@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "таблица умножения", "таблица умножения\таблица умножения.pyproj", "{66197418-F39C-4E13-A0B9-AAAB757DDA6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66197418-F39C-4E13-A0B9-AAAB757DDA6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66197418-F39C-4E13-A0B9-AAAB757DDA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B220D2A-4DCA-4962-A583-7BA686CAFFD6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Последовательность чисел 3", "Последовательность чисел 3\Последовательность чисел 3.pyproj", "{B83A4FD4-545B-4576-A94A-4FD7612B306B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B83A4FD4-545B-4576-A94A-4FD7612B306B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83A4FD4-545B-4576-A94A-4FD7612B306B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EC7DC46-F4DF-451C-8170-F6F97516D9BC}
+	EndGlobalSection
+EndGlobal

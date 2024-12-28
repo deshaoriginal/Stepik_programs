@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Последовательность символов", "Последовательность символов\Последовательность символов.pyproj", "{953D4ED0-7915-446B-9852-C6D7C2CCE95D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{953D4ED0-7915-446B-9852-C6D7C2CCE95D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953D4ED0-7915-446B-9852-C6D7C2CCE95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C167A74-5553-459C-B57A-95BB7F3E23A8}
+	EndGlobalSection
+EndGlobal
